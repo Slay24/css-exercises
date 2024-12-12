@@ -15,6 +15,7 @@ img {
 }
 
 .info {
+  max-width: 200px;
 }
 
 .title {
