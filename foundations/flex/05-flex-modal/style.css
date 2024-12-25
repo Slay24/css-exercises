@@ -31,6 +31,10 @@ body {
   align-items: center;
 }
 
+.footer {
+  display: flex;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
